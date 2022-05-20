@@ -9,4 +9,5 @@
 - https://ncorti.com/blog/howto-github-actions-building-android
 - https://itnext.io/github-actions-for-android-developers-9ae606df2bfa
 - https://github.com/android-actions/setup-android
+- https://ncorti.com/blog/my-android-project-template
 - 
