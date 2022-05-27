@@ -11,3 +11,8 @@
 - https://github.com/android-actions/setup-android
 - https://ncorti.com/blog/my-android-project-template
 - 
+https://gist.github.com/alexanderbazo/227476190ef5ab655795e34ec0d314d6
+https://proandroiddev.com/how-to-securely-build-and-sign-your-android-app-with-github-actions-ad5323452ce
+https://www.freecodecamp.org/news/use-github-actions-to-automate-android-development/
+https://medium.com/google-developer-experts/github-actions-for-android-developers-6b54c8a32f55
+https://www.raywenderlich.com/19407406-continuous-delivery-for-android-using-github-actions
